@@ -1,1 +1,1 @@
-# WebGL-aplication
+# WebGL-simple aplication
